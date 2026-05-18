@@ -1,8 +1,8 @@
 [
   {
-    "name": "ПотужноКрафт",
+    "name": "server1",
     "desc": "Выживание · PvP",
-    "ip": "potuzno",
+    "ip": "play.server1.com",
     "icon": "🏆",
     "accent": "#6c8cff",
     "accentBg": "rgba(108,140,255,0.15)"
